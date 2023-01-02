@@ -1,12 +1,3 @@
-Homepage: http://www.daemonology.net/bsdiff/
-Version: 4.3.1
-License: BSD-2
-
-Description:
-
-Binary diff/patch utility.
-
-bsdiff and bspatch are tools for building and applying patches to binary
-files. By using suffix sorting and taking advantage of how executable files
-change, bsdiff routinely produces binary patches 50-80% smaller than those
-produced by Xdelta, and 15% smaller than those produced by .RTPatch.
+version https://git-lfs.github.com/spec/v1
+oid sha256:82d5f69a01bd5b3962ddf42f9346aee41ab80bf4cb67ed8a1ede966e8b080c54
+size 411

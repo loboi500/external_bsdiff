@@ -1,16 +1,3 @@
-// Copyright 2017 The Chromium OS Authors. All rights reserved.
-// Use of this source code is governed by a BSD-style license that can be
-// found in the LICENSE file.
-
-#ifndef _BSDIFF_UTILS_H_
-#define _BSDIFF_UTILS_H_
-
-#include <stdint.h>
-
-namespace bsdiff {
-
-int64_t ParseInt64(const uint8_t* buf);
-
-}  // namespace bsdiff
-
-#endif
+version https://git-lfs.github.com/spec/v1
+oid sha256:fd39efe30e8d48238e532862f0728ec86d3a0bf532731508d5e244f38974f85c
+size 333

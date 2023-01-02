@@ -1,6 +1,3 @@
-This is bsdiff-4.3 from http://www.daemonology.net/bsdiff/.
-
-This file, the Android.mk makefile, and the empty
-MODULE_LICENSE_BSD_LIKE file were added.
-
-Changes in the source are marked with "// android" comments.
+version https://git-lfs.github.com/spec/v1
+oid sha256:406b83d26737b67fad8acb093a4eca4aa1a6cee37b36bfda36b5d278112f3ec3
+size 214

@@ -1,13 +1,3 @@
-// Copyright 2015 The Chromium OS Authors. All rights reserved.
-// Use of this source code is governed by a BSD-style license that can be
-// found in the LICENSE file.
-
-#include "bsdiff/test_utils.h"
-
-#include <gtest/gtest.h>
-
-int main(int argc, char** argv) {
-  ::testing::InitGoogleTest(&argc, argv);
-  ::testing::AddGlobalTestEnvironment(new test_utils::BsdiffTestEnvironment);
-  return RUN_ALL_TESTS();
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:c8097dde31fcd0158a37de0c0d7665b6c4b55e0d929fec998f8b0b0d001336e1
+size 409
